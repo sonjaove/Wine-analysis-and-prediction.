@@ -16,7 +16,7 @@
   - Quality
 # Project collaborators :
 1. [Vedanshi Vaghela](https://github.com/sonjaove)
-2. Lakshmann S
+2. [Lakshmann S](https://github.com/Lakshmanan195)
 3. [Maneesh R](https://github.com/shoyo1234)
 4. [Somisetti Sridhar](https://github.com/Empyrean-Empyrean)
 5. Irugu Sindhu

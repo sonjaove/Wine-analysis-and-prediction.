@@ -15,10 +15,10 @@
   ## Output:
   - Quality
 # Project collaborators :
-1. Vedanshi Vaghela
+1. [Vedanshi Vaghela](https://github.com/sonjaove)
 2. Lakshmann S
-3. Maneesh R
-4. Somisetti Sridhar
+3. [Maneesh R](https://github.com/shoyo1234)
+4. [Somisetti Sridhar](https://github.com/Empyrean-Empyrean)
 5. Irugu Sindhu
-6. P. Nutan karteek
+6. [P. Nutan karteek](https://github.com/PNKarteek2491)
   

@@ -14,4 +14,11 @@
   11. alcohol
   ## Output:
   - Quality
+# Project collaborators :
+1. Vedanshi Vaghela
+2. Lakshmann S
+3. Maneesh R
+4. Somisetti Sridhar
+5. Irugu Sindhu
+6. P. Nutan karteek
   

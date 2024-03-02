@@ -14,6 +14,10 @@
   11. alcohol
   ## Output:
   - Quality
+# Some featrues of the project :
+- 5 models have been used to see what would give the best result, and the best has been used to predict the outcome from the user inputs.
+- a column "avg total so2 and free so2" has been introduced to predict the missing value of quality, and the column has been deleted as it was not one of criteria on which the quality of the wine would be predicted.
+- a dataframe has been created to list the all models created with their accuracies.
 # Project collaborators :
 1. [Vedanshi Vaghela](https://github.com/sonjaove)
 2. [Lakshmanan S](https://github.com/Lakshmanan195)
